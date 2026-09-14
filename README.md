@@ -1,116 +1,187 @@
 <div align="center">
 
-# Hi there, I'm Sumit Kumar 👋 
-### Aspiring Full-Stack Web Developer | B.Sc. IT Graduate
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,50:0ea5e9,100:6366f1&height=230&section=header&text=SUMITKUMAR%20PANDIT&fontSize=44&fontColor=ffffff&fontAlignY=40&subtext=AI%2FML%20ENGINEER%20%E2%80%A2%20RESEARCHER%20%E2%80%A2%20FULL-STACK%20ARCHITECT&subfontSize=15&subTextY=66" width="100%" />
 
+<!-- Animated Dynamic Typing Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;B.Sc.+IT+Graduate;Aspiring+Software+Engineer;Passionate+Problem+Solver;Open+to+Web+Dev+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Production-Ready+Machine+Learning+Systems+🤖;M.Sc.+IT+Scholar+(9.85+CGPA)+%E2%80%A2+Top+1%25+Cohort+Distinction+🎓;Ex-AI%2FML+Intern+@+IICT+(Govt.+of+India+Affiliated)+🏛️;99.73%25+Accuracy+on+Validated+NLP+Classifiers+⚡;Passionate+about+Applied+AI%2C+Computer+Vision+%26+Cloud+Scalability+🚀" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<!-- Fast Navigation Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/sumitxdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:sumitkumar9059514@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://codedbysumit.com/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/SUMIT4859?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-20-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+    <img src="https://img.shields.io/badge/GitHub-20%2B_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
+  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C_India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
-
----
 
 </div>
 
-## 📌 About Me
-
-- 🎓 **Education:** B.Sc. IT Graduate with a strong foundation in software development principles.
-- 💻 **Core Focus:** Building responsive, robust, and user-centric web applications using modern front-end and back-end technologies.
-- 🚀 **Key Projects:** Architected **Zoo Management System** (with ticket booking & chatbot) and **Hospital Management System (HMS)**.
-- 🎯 **Current Objective:** Seeking an **Internship / Entry-Level Role** in Web Development / Software Engineering.
-- ⚡ **Fun Fact:** I enjoy designing intuitive UIs and automating complex workflow logic.
-
 ---
 
-## 🛠️ Tech Stack & Skills
+### ⚡ Executive Highlights & Academic Pedigree
 
 <div align="center">
 
-### Languages & Frameworks
+| 🏆 Academic Rank | 🔬 Research Background | 🎯 Best ML Accuracy | 📊 Data Corpus Handled |
+| :---: | :---: | :---: | :---: |
+| **Top 1% Distinction**<br/>`9.85` M.Sc. \| `9.73` B.Sc. | **IICT Alum**<br/>Affiliated w/ I-STEM (Govt. of India) | **`99.73%` Test Acc**<br/>Stratified 5-Fold Validated | **`55,000+` Articles & Records**<br/>NLP Vectorization & Auditing |
+
+</div>
+
+---
+
+## 🧠 About Me
+
+- 🔬 **AI / ML Researcher & Engineer:** Completed an intensive AI & Machine Learning internship at **Indian Institute of Computing and Technology (IICT)** (affiliated with I-STEM, Office of the Principal Scientific Adviser to the Government of India).
+- 🎓 **High-Performing Scholar:** Currently pursuing **M.Sc. IT (9.85/10.0 CGPA)** after graduating **B.Sc. IT with Distinction (9.73/10.0 CGPA)** at Indus University.
+- 🛠️ **Production Mindset:** I specialize in developing leak-free ML pipelines, validating models via stratified 5-fold cross-validation, serialized model deployment via Joblib, and interactive dashboarding with Streamlit.
+- 🌐 **Full-Stack Proficiency:** Bridging the gap between intelligent algorithms and modern responsive web systems with React, Node.js, Express, and modern SQL/NoSQL databases.
+- 🎯 **Career Goal:** Targeting impactful roles in **AI/ML Engineering, Applied Machine Learning, and Intelligent Full-Stack Systems**.
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### 🤖 Machine Learning, Deep Learning & Computer Vision
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,bootstrap,tailwind" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,tensorflow,pytorch" alt="ML Frameworks" />
 </p>
 
-### Databases, Tools & Platforms
+### 🌐 Full-Stack & Web Architecture
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman" alt="Databases and Tools" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,java,cs,php" alt="Full Stack" />
+</p>
+
+### ⚙️ Developer Tools, Cloud & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,tailwind,bootstrap" alt="Tools and Cloud" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Flagship AI/ML Systems
 
 <table>
+  <!-- Project 1 -->
   <tr>
-    <td width="50%">
-      <h3 align="center">🦁 Zoo Management System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
-        <img src="https://img.shields.io/badge/Full--Stack-Web%20App-blue?style=flat-square" alt="Stack" />
-      </p>
-      <p>A comprehensive web platform for managing zoo operations including animal records, staff scheduling, visitor ticket booking, and an interactive chatbot assistant.</p>
-      <p><b>Tech:</b> HTML5, CSS3, JavaScript, Python / Backend, Database</p>
-      <p align="center">
-        <a href="https://github.com/SUMIT4859/Zoo-Management-System"><b>🔗 View Repository</b></a>
+    <td width="60%">
+      <h3>📰 AI-Powered Fake News Detection System</h3>
+      <p><b>Core Stack:</b> <code>Python</code> <code>Scikit-learn</code> <code>NLP</code> <code>TF-IDF</code> <code>Streamlit</code></p>
+      <ul>
+        <li>Preprocessed and vectorized a corpus of <b>38,824 articles</b> with custom n-gram tokenization and stop-word filtering.</li>
+        <li>Benchmarked 4 distinct classifiers; engineered a <b>Random Forest classifier achieving 99.73% test accuracy</b> (98.23% stratified 5-fold cross-validation).</li>
+        <li>Conducted rigorous data-leakage auditing and deployed an interactive, real-time Streamlit cloud inference application.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/SUMIT4859"><b>🔗 Source Code</b></a> &nbsp;|&nbsp;
+        <a href="https://codedbysumit.com/portfolio"><b>🌐 Live Interactive Demo</b></a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🏥 Hospital Management System (HMS)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
-        <img src="https://img.shields.io/badge/ASP.NET%20Core-C%23-purple?style=flat-square" alt="Stack" />
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Model_Accuracy-99.73%25-00C853?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Dataset-38%2C824_Samples-blue?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Validation-Stratified_5--Fold-purple?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Deployment-Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+    </td>
+  </tr>
+
+  <!-- Project 2 -->
+  <tr>
+    <td width="60%">
+      <h3>🛡️ AI-Driven Phishing Email & Cybersecurity Detection</h3>
+      <p><b>Core Stack:</b> <code>Python</code> <code>Logistic Regression</code> <code>Feature Engineering</code> <code>Plotly</code></p>
+      <ul>
+        <li>Trained on a <b>17,537 email cybersecurity dataset</b> with domain-engineered features (keyword densities, link flags, lexical entropy).</li>
+        <li>Optimized a high-recall Logistic Regression model achieving <b>97.83% accuracy</b>, suppressing critical false negatives.</li>
+        <li>Shipped a Streamlit security intelligence console with real-time risk gauges, keyword audit highlights, and exportable CSV reports.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/SUMIT4859"><b>🔗 Source Code</b></a> &nbsp;|&nbsp;
+        <a href="https://codedbysumit.com/portfolio"><b>🌐 Live Interactive Demo</b></a>
       </p>
-      <p>End-to-end healthcare management software handling patient admission, doctor appointments, diagnosis history, billing, and administrative records.</p>
-      <p><b>Tech:</b> C#, ASP.NET Core, SQL Database, Bootstrap</p>
-      <p align="center">
-        <a href="https://github.com/SUMIT4859"><b>🔗 View Repository</b></a>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Model_Accuracy-97.83%25-00C853?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Dataset-17%2C537_Emails-blue?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Diagnostics-Confusion_Matrix-purple?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Analytics-Plotly_Visuals-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+    </td>
+  </tr>
+
+  <!-- Project 3 -->
+  <tr>
+    <td width="60%">
+      <h3>📝 AI-Based Automated Exam Evaluation System</h3>
+      <p><b>Core Stack:</b> <code>Python</code> <code>OpenCV</code> <code>Pytesseract OCR</code> <code>Cosine Similarity</code></p>
+      <ul>
+        <li>End-to-end automated grading system combining optical character recognition (OCR) with OpenCV adaptive image preprocessing.</li>
+        <li>Built an NLP semantic benchmarking engine comparing extracted student answers against teacher answer keys using <b>TF-IDF vector cosine similarity</b>.</li>
+        <li>Generates automated granular scores and instant pedagogical feedback rubrics.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/SUMIT4859"><b>🔗 Source Code</b></a> &nbsp;|&nbsp;
+        <a href="https://codedbysumit.com/portfolio"><b>🌐 Live Interactive Demo</b></a>
       </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Pipeline-OCR_%2B_NLP-9C27B0?style=for-the-badge&logo=opencv&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Vision-OpenCV_%26_Tesseract-blue?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Semantic-Cosine_Similarity-orange?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Use_Case-EdTech_Automation-success?style=flat-square" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 Live GitHub Analytics & Code Activity
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SUMIT4859&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Sumit's GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMIT4859&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SUMIT4859&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=6366f1" alt="Sumit's GitHub Stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMIT4859&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SUMIT4859&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SUMIT4859&theme=tokyonight&hide_border=true&stroke=6366f1&ring=38bdf8&fire=38bdf8" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect & Collaborate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-codedbysumit.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://codedbysumit.com/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sumitxdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumitxdev)
+[![Gmail](https://img.shields.io/badge/Gmail-sumitkumar9059514%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitkumar9059514@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SUMIT4859-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUMIT4859)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
 
-</div>
+<br/>
 
-<br>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,50:0ea5e9,100:6366f1&height=120&section=footer" width="100%" />
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/SUMIT4859">Sumit Kumar</a> — Always learning, always building.</i>
+  <i>⚡ Engineered by <b>Sumitkumar Pandit</b> • Precision ML Models & Scalable Architectures</i>
 </p>
+
+</div>
