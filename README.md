@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,50:0ea5e9,100:6366f1&height=230&section=header&text=SUMITKUMAR%20PANDIT&fontSize=44&fontColor=ffffff&fontAlignY=40&subtext=AI%2FML%20ENGINEER%20%E2%80%A2%20RESEARCHER%20%E2%80%A2%20FULL-STACK%20ARCHITECT&subfontSize=15&subTextY=66" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,50:0284c7,100:6366f1&height=220&section=header&text=SUMITKUMAR%20PANDIT&fontSize=42&fontColor=ffffff&fontAlignY=38&subtext=AI%2FML%20ENGINEER%20%7C%20RESEARCHER%20%7C%20FULL-STACK%20ARCHITECT&subfontSize=15&subTextY=64" width="100%" />
 
 <!-- Animated Dynamic Typing Subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Production-Ready+Machine+Learning+Systems+🤖;M.Sc.+IT+Scholar+(9.85+CGPA)+%E2%80%A2+Top+1%25+Cohort+Distinction+🎓;Ex-AI%2FML+Intern+@+IICT+(Govt.+of+India+Affiliated)+🏛️;99.73%25+Accuracy+on+Validated+NLP+Classifiers+⚡;Passionate+about+Applied+AI%2C+Computer+Vision+%26+Cloud+Scalability+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Building%20Production-Ready%20ML%20%26%20AI%20Systems;M.Sc.%20IT%20Scholar%20(9.85%20CGPA)%20%7C%20Top%201%25%20Distinction;Ex-AI%2FML%20Intern%20%40%20IICT%20(Govt.%20of%20India%20Affiliated);99.73%25%20Accuracy%20on%20Validated%20NLP%20Classifiers;Applied%20AI%20%7C%20Computer%20Vision%20%7C%20Scalable%20Web%20Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
   <a href="https://github.com/SUMIT4859?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-20%2B_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C_India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=SUMIT4859&style=for-the-badge&color=0284c7&label=Profile+Views" alt="Profile Views" />
 </p>
 
 </div>
@@ -35,9 +35,9 @@
 
 <div align="center">
 
-| 🏆 Academic Rank | 🔬 Research Background | 🎯 Best ML Accuracy | 📊 Data Corpus Handled |
+| 🏆 Academic Rank | 🔬 Research Pedigree | 🎯 Best Model Accuracy | 📊 Dataset Corpus |
 | :---: | :---: | :---: | :---: |
-| **Top 1% Distinction**<br/>`9.85` M.Sc. \| `9.73` B.Sc. | **IICT Alum**<br/>Affiliated w/ I-STEM (Govt. of India) | **`99.73%` Test Acc**<br/>Stratified 5-Fold Validated | **`55,000+` Articles & Records**<br/>NLP Vectorization & Auditing |
+| **Top 1% Distinction**<br/>`9.85` M.Sc. \| `9.73` B.Sc. | **IICT Alum**<br/>Affiliated w/ I-STEM (Govt. of India) | **`99.73%` Test Accuracy**<br/>Stratified 5-Fold Cross-Validated | **`55,000+` Records**<br/>NLP Vectorization & Auditing |
 
 </div>
 
@@ -45,11 +45,11 @@
 
 ## 🧠 About Me
 
-- 🔬 **AI / ML Researcher & Engineer:** Completed an intensive AI & Machine Learning internship at **Indian Institute of Computing and Technology (IICT)** (affiliated with I-STEM, Office of the Principal Scientific Adviser to the Government of India).
-- 🎓 **High-Performing Scholar:** Currently pursuing **M.Sc. IT (9.85/10.0 CGPA)** after graduating **B.Sc. IT with Distinction (9.73/10.0 CGPA)** at Indus University.
-- 🛠️ **Production Mindset:** I specialize in developing leak-free ML pipelines, validating models via stratified 5-fold cross-validation, serialized model deployment via Joblib, and interactive dashboarding with Streamlit.
-- 🌐 **Full-Stack Proficiency:** Bridging the gap between intelligent algorithms and modern responsive web systems with React, Node.js, Express, and modern SQL/NoSQL databases.
-- 🎯 **Career Goal:** Targeting impactful roles in **AI/ML Engineering, Applied Machine Learning, and Intelligent Full-Stack Systems**.
+- 🔬 **AI / ML Researcher & Engineer:** Completed an intensive AI & Machine Learning research internship at **Indian Institute of Computing and Technology (IICT)** (affiliated with I-STEM, Office of the Principal Scientific Adviser to the Government of India).
+- 🎓 **Distinction Scholar:** Currently pursuing **M.Sc. IT (9.85/10.0 CGPA)** after graduating **B.Sc. IT with Distinction (9.73/10.0 CGPA)** at Indus University.
+- 🛠️ **Production ML Engineering:** Experienced in developing leak-free ML pipelines, validating models via stratified 5-fold cross-validation, serialized model deployment via Joblib, and interactive dashboarding with Streamlit.
+- 🌐 **Full-Stack Proficiency:** Bridging the gap between intelligent algorithms and modern responsive web systems with React, Node.js, Express, and SQL/NoSQL databases.
+- 🎯 **Career Goal:** Targeting high-impact roles in **AI/ML Engineering, Applied Data Science, and Intelligent Full-Stack Systems**.
 
 ---
 
@@ -64,28 +64,28 @@
 
 ### 🌐 Full-Stack & Web Architecture
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,java,cs,php" alt="Full Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,java,cs" alt="Full Stack" />
 </p>
 
 ### ⚙️ Developer Tools, Cloud & Deployment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,tailwind,bootstrap" alt="Tools and Cloud" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,tailwind" alt="Tools and Cloud" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 Featured Flagship AI/ML Systems
+## 🚀 Featured Flagship AI Systems
 
 <table>
   <!-- Project 1 -->
   <tr>
-    <td width="60%">
+    <td width="62%">
       <h3>📰 AI-Powered Fake News Detection System</h3>
       <p><b>Core Stack:</b> <code>Python</code> <code>Scikit-learn</code> <code>NLP</code> <code>TF-IDF</code> <code>Streamlit</code></p>
       <ul>
-        <li>Preprocessed and vectorized a corpus of <b>38,824 articles</b> with custom n-gram tokenization and stop-word filtering.</li>
+        <li>Preprocessed and vectorized a corpus of <b>38,824 news articles</b> with custom n-gram tokenization and stop-word filtering.</li>
         <li>Benchmarked 4 distinct classifiers; engineered a <b>Random Forest classifier achieving 99.73% test accuracy</b> (98.23% stratified 5-fold cross-validation).</li>
         <li>Conducted rigorous data-leakage auditing and deployed an interactive, real-time Streamlit cloud inference application.</li>
       </ul>
@@ -94,7 +94,7 @@
         <a href="https://codedbysumit.com/portfolio"><b>🌐 Live Interactive Demo</b></a>
       </p>
     </td>
-    <td width="40%" align="center">
+    <td width="38%" align="center">
       <img src="https://img.shields.io/badge/Model_Accuracy-99.73%25-00C853?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Dataset-38%2C824_Samples-blue?style=flat-square" /><br/>
       <img src="https://img.shields.io/badge/Validation-Stratified_5--Fold-purple?style=flat-square" /><br/>
@@ -104,8 +104,8 @@
 
   <!-- Project 2 -->
   <tr>
-    <td width="60%">
-      <h3>🛡️ AI-Driven Phishing Email & Cybersecurity Detection</h3>
+    <td width="62%">
+      <h3>🛡️ AI-Driven Phishing Email & Cybersecurity Threat Detection</h3>
       <p><b>Core Stack:</b> <code>Python</code> <code>Logistic Regression</code> <code>Feature Engineering</code> <code>Plotly</code></p>
       <ul>
         <li>Trained on a <b>17,537 email cybersecurity dataset</b> with domain-engineered features (keyword densities, link flags, lexical entropy).</li>
@@ -117,7 +117,7 @@
         <a href="https://codedbysumit.com/portfolio"><b>🌐 Live Interactive Demo</b></a>
       </p>
     </td>
-    <td width="40%" align="center">
+    <td width="38%" align="center">
       <img src="https://img.shields.io/badge/Model_Accuracy-97.83%25-00C853?style=for-the-badge&logo=scikitlearn&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Dataset-17%2C537_Emails-blue?style=flat-square" /><br/>
       <img src="https://img.shields.io/badge/Diagnostics-Confusion_Matrix-purple?style=flat-square" /><br/>
@@ -127,7 +127,7 @@
 
   <!-- Project 3 -->
   <tr>
-    <td width="60%">
+    <td width="62%">
       <h3>📝 AI-Based Automated Exam Evaluation System</h3>
       <p><b>Core Stack:</b> <code>Python</code> <code>OpenCV</code> <code>Pytesseract OCR</code> <code>Cosine Similarity</code></p>
       <ul>
@@ -140,7 +140,7 @@
         <a href="https://codedbysumit.com/portfolio"><b>🌐 Live Interactive Demo</b></a>
       </p>
     </td>
-    <td width="40%" align="center">
+    <td width="38%" align="center">
       <img src="https://img.shields.io/badge/Pipeline-OCR_%2B_NLP-9C27B0?style=for-the-badge&logo=opencv&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Vision-OpenCV_%26_Tesseract-blue?style=flat-square" /><br/>
       <img src="https://img.shields.io/badge/Semantic-Cosine_Similarity-orange?style=flat-square" /><br/>
@@ -155,8 +155,8 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SUMIT4859&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=6366f1" alt="Sumit's GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMIT4859&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=SUMIT4859&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=6366f1" alt="Sumit's GitHub Stats" />
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SUMIT4859&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
 
 <br/>
 
@@ -178,10 +178,10 @@
 <br/>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,50:0ea5e9,100:6366f1&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,50:0284c7,100:6366f1&height=100&section=footer" width="100%" />
 
 <p align="center">
-  <i>⚡ Engineered by <b>Sumitkumar Pandit</b> • Precision ML Models & Scalable Architectures</i>
+  <i>⚡ Engineered by <b>Sumitkumar Pandit</b> • Precision ML Systems & Scalable Architectures</i>
 </p>
 
 </div>
